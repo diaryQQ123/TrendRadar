@@ -46,12 +46,22 @@ HarmonyOS
 
 微软
 Microsoft
+电脑
 
 黄仁勋
 英伟达
 NVIDIA
 
 AMD
+
+项目
+测试
+自由
+旅游
+滑板
+前端
+JAVA
+python
 
 谷歌
 google
